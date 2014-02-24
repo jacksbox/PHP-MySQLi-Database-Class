@@ -1,7 +1,7 @@
 To utilize this class, first import Mysqldbi.php into your project, and require it.
 
 ```php
-require_once('Mysqlidb.php');
+require_once('MysqliDb.class.php');
 ```
 
 After that, create a new instance of the class.
